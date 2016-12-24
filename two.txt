@@ -1,5 +1,3 @@
 haha,i am devolop on branch "dev".
 but now,i need restore a bug.
-conflict occurs.
-
-
+i also modify two.txt.
